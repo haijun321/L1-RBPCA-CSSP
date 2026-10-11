@@ -1,0 +1,17 @@
+# MATLAB and OS files
+*.asv
+*.m~
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local/private data and generated outputs
+data/**/*.mat
+data/**/*.csv
+runs/
+outputs/
+logs/
+
+# Machine-specific paths accidentally copied into scripts
+H:/Students/
+C:/Users/

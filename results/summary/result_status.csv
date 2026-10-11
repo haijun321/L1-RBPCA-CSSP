@@ -1,0 +1,5 @@
+Artifact,Protocol,Repeats,Status,PaperUse
+robust_outliers_noPCA_kneeAvg,"train=.70,val=.10,test=.20 in current script; impulse; old block tag 13",3 reported; shared split; no raw reps,verified_small_run / unverified against current script,diagnostic only
+result_2601/Tsummary.csv,impulse; old blocks 13/5/50; BestAcc and BestQ,not recorded (possible legacy aggregation),legacy_oracle_unverified,appendix/history only
+result3/*.xlsx,old q scans; mixed ratios and block sizes,no explicit independent repeats; ErrorStdDev across q,legacy_unverified,archive only
+PEMS重构及如果图,historical reconstruction images; configurations differ,single or unknown,legacy_unverified,visual history only

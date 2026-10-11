@@ -1,0 +1,7 @@
+method_id,paper_name,repository_function,role,source_or_citation,license,final_status
+L1-RBPCA,L1-RBPCA,TPCA_RBPCA,proposed,pending,pending,algorithm_alignment_required
+L1-Greedy,TPCA-L1-Greedy,TPCA_Greed_test,baseline,pending,pending,algorithm_alignment_required
+L1-NonGreedy,NonGreedy,Non_Greedy,baseline,pending,pending,algorithm_alignment_required
+BPCA,BPCA,BPCA,baseline,pending,pending,provenance_required
+GLRAM,GLRAM,GLRAM,baseline,pending,pending,provenance_required
+PE,PE,projected_estimator,baseline,pending,pending,provenance_required

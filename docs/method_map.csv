@@ -1,0 +1,7 @@
+paper_method,repository_function,baseline_or_proposed,citation,license,executed_in_final_release,notes
+L1-RBPCA,TPCA_RBPCA,proposed,,,,
+TPCA-L1-Greedy,TPCA_Greed_test,baseline,,,,
+NonGreedy,Non_Greedy,baseline,,,,
+BPCA,BPCA,baseline,,,,
+GLRAM,GLRAM,baseline,,,,
+PE,projected_estimator,baseline,,,,

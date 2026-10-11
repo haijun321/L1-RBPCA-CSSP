@@ -1,0 +1,5 @@
+required_files: PASS
+active_absolute_paths: PASS
+publication_templates_pending: paper/README.md, supplementary/README.md, docs/paper_table_figure_map.csv, data/dataset_manifest.csv
+legacy_absolute_paths: documented
+NOTE: MATLAB execution, data licenses, algorithm invariants, and paper-result reproduction require the final v1.0.0 rerun.

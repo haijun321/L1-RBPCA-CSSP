@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "L1-RBPCA: Robust Bilateral Principal Component Analysis under the L1 Norm"
+message: "If you use this software, please cite the associated CSSP manuscript and this repository."
+type: software
+version: 0.1.1-review-candidate
+date-released: 2026-10-10
+authors:
+  - family-names: Jiang
+    given-names: Haijun
+  - family-names: Wang
+    given-names: Yue
+  - family-names: Jin
+    given-names: Xinghao
+  - family-names: Feng
+    given-names: Jiang
+repository-code: "https://github.com/haijun321/L1-RBPCA-CSSP"
+license: MIT
